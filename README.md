@@ -2,10 +2,7 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website contents
 
-this is just a info
-
-Modified step 2
-
-Now direct commit - Step 3
+test contents
+1. index.html
